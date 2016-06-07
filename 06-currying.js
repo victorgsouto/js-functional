@@ -7,12 +7,17 @@ var dragon =
 		element + "!"
 
 var fluffykins = dragon("fluffykins")("tiny")("lightning");
-console.log(fluffykins);				
+//Result
+//fluffykins is a tiny dragon that breatheslightning!
+
 
 //Normal func
-let dragon = (name, size, element) => 
+var dragon = (name, size, element) => 
 	name + ' is a ' +
 	size + ' dragon that breathes' +
 	element + "!"
 
 console.log(dragon("fluffykins", "tiny", "lightning"));
+//Result
+//fluffykins is a tiny dragon that breatheslightning!
+
