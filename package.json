@@ -1,0 +1,19 @@
+{
+  "name": "js-functional",
+  "version": "1.0.0",
+  "description": "- [filter] (01-filter.js)\r - [map] (02-map.js)\r - [reduce] (03-reduce.js)\r - [clousures] (04-clousures.js)\r - [currying] (05-currying.js)\r - [recursion] (06-recursion.js)",
+  "main": "01-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgsouto/js-functional.git"
+  },
+  "author": "Victor Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgsouto/js-functional/issues"
+  },
+  "homepage": "https://github.com/victorgsouto/js-functional#readme"
+}
