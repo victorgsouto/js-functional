@@ -21,7 +21,7 @@ var animals = [
 
 var test = new IsDog();
 
-console.log(test.dogs(animals));
+// console.log(test.dogs(animals));
 
 
 
