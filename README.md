@@ -1,5 +1,8 @@
 # Javascript functional
 
+[![Build Status](https://travis-ci.org/victorgsouto/js-functional.svg?branch=master)](https://travis-ci.org/victorgsouto/js-functional)
+
+
 - [filter] (app/01-filter.js)
 - [map] (app/02-map.js)
 - [reduce] (app/03-reduce.js)
