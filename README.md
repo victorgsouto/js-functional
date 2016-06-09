@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/victorgsouto/js-functional.svg?branch=master)](https://travis-ci.org/victorgsouto/js-functional)
 
 
-- [filter] (app/01-filter.js)
-- [map] (app/02-map.js)
-- [reduce] (app/03-reduce.js)
-- [clousures] (app/04-clousures.js)
-- [currying] (app/05-currying.js)
-- [recursion] (app/06-recursion.js)
+- [filter] (assets/01-filter.js)
+- [map] (assets/02-map.js)
+- [reduce] (assets/03-reduce.js)
+- [clousures] (assets/04-clousures.js)
+- [currying] (assets/05-currying.js)
+- [recursion] (assets/06-recursion.js)
