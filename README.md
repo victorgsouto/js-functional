@@ -1,8 +1,8 @@
 # Javascript functional
 
-- [filter] (01-filter.js)
-- [map] (02-map.js)
-- [reduce] (03-reduce.js)
-- [clousures] (04-clousures.js)
-- [currying] (05-currying.js)
-- [recursion] (06-recursion.js)
+- [filter] (app/01-filter.js)
+- [map] (app/02-map.js)
+- [reduce] (app/03-reduce.js)
+- [clousures] (app/04-clousures.js)
+- [currying] (app/05-currying.js)
+- [recursion] (app/06-recursion.js)
