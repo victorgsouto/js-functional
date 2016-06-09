@@ -4,7 +4,7 @@
   "description": "- [filter] (01-filter.js)\r - [map] (02-map.js)\r - [reduce] (03-reduce.js)\r - [clousures] (04-clousures.js)\r - [currying] (05-currying.js)\r - [recursion] (06-recursion.js)",
   "main": "01-filter.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
