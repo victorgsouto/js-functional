@@ -16,7 +16,7 @@
     "url": "https://github.com/victorgsouto/js-functional/issues"
   },
   "homepage": "https://github.com/victorgsouto/js-functional#readme",
-  "dependencies": {
+  "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.5.3"
   }
