@@ -12,9 +12,6 @@ var animals = [
     { name: 'Din', species: 'cat' },
 ];
 
-
-
-
 describe('js-functional', () => {
     describe('01-filter', () => {
         let dogs;
