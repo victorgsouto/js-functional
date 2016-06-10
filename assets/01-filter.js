@@ -18,7 +18,7 @@ var animals = [
     { name: 'Nem', species: 'cat' },
     { name: 'Din', species: 'cat' },
 ]
-
+ 
 var test = new IsDog();
 
 // console.log(test.dogs(animals));
