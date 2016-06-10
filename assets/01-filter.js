@@ -23,10 +23,6 @@ var test = new IsDog();
 
 // console.log(test.dogs(animals));
 
-
-
-
-
 // let isDog = (animal) => {
 //     return animal.species === 'dog';
 // }
